@@ -1,3 +1,5 @@
+Johns Hopkins University Exploratory Data Analysis Coursera course peer-assessed assignment 1.
+
 ## Introduction
 
 This assignment uses data from
